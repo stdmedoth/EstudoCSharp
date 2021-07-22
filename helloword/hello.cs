@@ -1,0 +1,10 @@
+using System;
+
+namespace hello{
+  class MainClass{
+      static void Main(){
+          Console.WriteLine("Hello World!");
+      }
+
+  }
+}
